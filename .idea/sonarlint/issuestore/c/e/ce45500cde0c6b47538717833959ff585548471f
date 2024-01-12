@@ -1,0 +1,13 @@
+
+Itypescript:S1128
+"&Remove this unused import of 'Router'.(àûß¢8ÔğàÏÛ0
+Mtypescript:S1128"%Remove this unused import of 'axios'.(íöóÛşÿÿÿÿ8ÕğàÏÛ0
+Vtypescript:S1128".Remove this unused import of 'GetStaticPaths'.(Ü¡ùâøÿÿÿÿ8ÕğàÏÛ0
+Otypescript:S1128"'Remove this unused import of 'Context'.(‹…ó­üÿÿÿÿ8ÕğàÏÛ0
+^typescript:S1125%"6Refactor the code to avoid using this boolean literal.(Š§¬Ñüÿÿÿÿ8ÕğàÏÛ0
+^typescript:S1125+"6Refactor the code to avoid using this boolean literal.(Š§¬Ñüÿÿÿÿ8ÖğàÏÛ0
+^typescript:S11251"6Refactor the code to avoid using this boolean literal.(Š§¬Ñüÿÿÿÿ8ÖğàÏÛ0
+Ftypescript:S6479M"Do not use Array index in keys(´áë’úÿÿÿÿ8ÖğàÏÛ0
+©typescript:S6481i"…The object passed as the value prop to the Context provider changes every render. To fix this consider wrapping it in a useMemo hook.(¾öá¼8ÖğàÏÛ0
+©typescript:S6481"…The object passed as the value prop to the Context provider changes every render. To fix this consider wrapping it in a useMemo hook.(¾öá¼8×ğàÏÛ0
+ªtypescript:S6481•"…The object passed as the value prop to the Context provider changes every render. To fix this consider wrapping it in a useMemo hook.(¾öá¼8×ğàÏÛ0

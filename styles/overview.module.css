@@ -1,0 +1,12 @@
+.rectangle26{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 0%;
+    right: 62.91%;
+    top: 39.95%;
+    bottom: 49.74%;
+
+    background: #4EA4B1;
+    border-radius: 0px 20px;
+}

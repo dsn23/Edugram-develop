@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Poppins Medium;
+    src: url('../fonts/poppins-medium.woff2');
+    font-weight: normal;
+    font-display: fallback;
+  }
+  
+  @font-face {
+    font-family: Poppins Regular;
+    src: url('../fonts/poppins-regular.woff2');
+    font-display: fallback;
+  }
+  
+  @font-face {
+    font-family: Poppins Bold;
+    src: url('../fonts/poppins-semibold-webfont.woff2');
+    font-weight: bold;
+    font-display: fallback;
+  }

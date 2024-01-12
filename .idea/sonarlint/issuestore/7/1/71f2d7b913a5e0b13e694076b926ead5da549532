@@ -1,0 +1,10 @@
+
+Ntypescript:S1128"&Remove this unused import of 'Button'.(§ÎÜğşÿÿÿÿ8Âî…ÉÚ0
+Ltypescript:S1128"$Remove this unused import of 'Link'.(§ÎÜğşÿÿÿÿ8Ãî…ÉÚ0
+Stypescript:S3863"+'../models/ChatModel' import is duplicated.(ÇÁüÿÿÿÿ8Ãî…ÉÚ0
+Ntypescript:S1128
+"+Remove this unused import of 'useLocation'.(¥«ºÆ8Ãî…ÉÚ0
+Ktypescript:S6480."(JSX props should not use arrow functions(éöÓ¡8Ãî…ÉÚ0
+Ptypescript:S64806"(JSX props should not use arrow functions(ìÅ‰Éÿÿÿÿÿ8Ãî…ÉÚ0
+_typescript:S1854C"7Remove this useless assignment to variable "socketRef".(Êˆ¿Àÿÿÿÿÿ8Ãî…ÉÚ0
+Ptypescript:S6480o"(JSX props should not use arrow functions(Òï«ƒüÿÿÿÿ8Ãî…ÉÚ0
